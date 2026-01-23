@@ -1,0 +1,11 @@
+[workspace]
+channels = ["conda-forge"]
+name = "408_ce2"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pip = ">=25.3,<26"
+ipykernel = ">=7.1.0,<8"
