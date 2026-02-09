@@ -1,0 +1,13 @@
+[workspace]
+authors = ["Coral Quering <ciq0001@uah.edu>"]
+channels = ["conda-forge"]
+name = "practice"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pip = ">=26.0.1,<27"
+ipykernel = ">=7.2.0,<8"
+numpy = ">=2.4.2,<3"
