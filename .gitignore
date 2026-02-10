@@ -215,3 +215,6 @@ __marimo__/
 *.docx
 *.nc
 *.png
+
+#hw2 data
+cb_2024_01_place_500k.*
