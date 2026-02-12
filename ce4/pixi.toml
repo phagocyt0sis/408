@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Coral Quering <ciq0001@uah.edu>"]
+channels = ["conda-forge"]
+name = "ce4"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pip = ">=26.0.1,<27"
+ipykernel = ">=7.2.0,<8"
+matplotlib = ">=3.10.8,<4"
+geopandas = ">=1.1.2,<2"
+cartopy = ">=0.25.0,<0.26"
+geodatasets = ">=2026.1.0,<2027"
