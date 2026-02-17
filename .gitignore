@@ -216,5 +216,6 @@ __marimo__/
 *.nc
 *.png
 
-#hw2 data
+# data
 cb_2024_01_place_500k.*
+us_eco_l3_state_boundaries. *
