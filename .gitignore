@@ -218,4 +218,6 @@ __marimo__/
 
 # data
 cb_2024_01_place_500k.*
-us_eco_l3_state_boundaries. *
+us_eco_l3_state_boundaries.*
+ne_10m_populated_places.*
+tl_2025_us_state.*
