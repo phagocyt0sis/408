@@ -1,0 +1,16 @@
+[workspace]
+authors = ["Coral Quering <ciq0001@uah.edu>"]
+channels = ["conda-forge"]
+name = "ce7"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+pip = ">=26.0.1,<27"
+ipykernel = ">=7.2.0,<8"
+xarray = ">=2026.2.0,<2027"
+rioxarray = ">=0.21.0,<0.22"
+numpy = ">=2.4.2,<3"
+matplotlib = ">=3.10.8,<4"
