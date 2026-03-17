@@ -215,6 +215,8 @@ __marimo__/
 *.docx
 *.nc
 *.png
+*.TIF
+*.tif
 
 # data
 cb_2024_01_place_500k.*
@@ -222,3 +224,5 @@ us_eco_l3_state_boundaries.*
 ne_10m_populated_places.*
 tl_2025_us_state.*
 2025_Gaz_zcta_national.*
+Boundary_City_Huntsville_poly.*
+LC09_L2SP_021036_20260222_20260223_02_T1.*
