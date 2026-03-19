@@ -211,8 +211,8 @@ __marimo__/
 #!.pixi/config.toml
 
 # file types
-*.pdf
-*.docx
+#.pdf
+#.docx
 *.nc
 *.png
 *.TIF
