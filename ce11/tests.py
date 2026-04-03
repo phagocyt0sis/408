@@ -1,3 +1,5 @@
+# AI use statement: ChatGPT was used in the creation of code for this assignment
+
 from shapely import Polygon
 import numpy as np
 import geopandas as gpd
